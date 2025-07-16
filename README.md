@@ -60,13 +60,6 @@ This is a data analytics project that analyzes student mental health based on su
 
 This project shows that mental health among students is heavily influenced by *sleep patterns, **academic workload, and **financial stress*. Improving awareness, support systems, and time management can help reduce stress and depression levels.
 
----
-
-## 📂 Dashboard File
-
-[Click to View Power BI Report (.pbix)](https://github.com/yourusername/student-depression-dashboard/blob/main/report/Student_Depression_Analysis.pbix)
-
----
 
 ## 📬 Contact
 
